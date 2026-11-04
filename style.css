@@ -1,4 +1,4 @@
-/* afterglow -- shared styling for the landing page and the run page.
+/* shadowx -- shared styling for the landing page and the run page.
 
    The page kind sits on <html> (.landing / .run), never on <body>: jb.js owns
    the body classes .log, .done and .fail and replaces them wholesale, so a
